@@ -1,41 +1,33 @@
-<img width="1358" height="644" alt="image" src="https://github.com/user-attachments/assets/fc62ab19-ced6-4d05-8d83-0d26e7399051" />
+# 🍴 Restaurant Website
 
-# 🌍 Tourists Website – README.md
-
-```md
-# 🌍 Tourists Website
-
-A simple and responsive tourism website created using HTML, CSS, and JavaScript.  
-This project showcases famous tourist destinations, travel information, and attractive UI design for users who love exploring places.
+A modern and responsive restaurant website created using HTML and CSS.
+This project is designed to showcase food items, special offers, restaurant services, and an attractive user interface for customers.
 
 ## ✨ Features
 
 - Responsive design 📱
-- Beautiful tourist destination cards 🏞️
-- Navigation bar and smooth scrolling 🔗
-- Attractive homepage layout 🎨
-- Interactive user interface ⚡
-- Easy to customize and expand
+- Interactive food menu 🍕
+- Beautiful landing page 🎨
+- Smooth navigation 🔗
+- Modern and clean UI ✨
+- Easy-to-use layout ⚡
 
 ## 🛠️ Technologies Used
 
 - HTML5
 - CSS3
-- JavaScript
 
 ## 📂 Project Structure
 
-tourists-website/
+restaurant-website/
 │
 ├── index.html
 ├── style.css
-├── script.js
 └── images/
 
-## 🚀 Live Website
+## 🚀 Live Demo
 
-Explore the project here:  
-https://mytourpage17.ccbp.tech
+🌐 https://yourprojectlink.ccbp.tech
 
 ## 📸 Preview
 
@@ -43,14 +35,14 @@ open - image.png
 
 ## 🎯 Purpose
 
-This project was developed to improve frontend development skills and create a visually appealing tourism-based website.
+This project was developed to improve frontend development skills and create a visually appealing restaurant website.
 
-## 🙌 Future Improvements
+## 🔮 Future Improvements
 
-- Add booking functionality
-- Include dark mode 🌙
-- Add backend integration
-- Improve animations and UI
+- Online food ordering 🍔
+- Table booking system 🍽️
+- Dark mode 🌙
+- Backend integration 🔥
 
 ## 👩‍💻 Author
 
