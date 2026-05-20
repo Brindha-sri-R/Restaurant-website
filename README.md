@@ -27,7 +27,7 @@ restaurant-website/
 
 ## 🚀 Live Demo
 
-🌐 https://yourprojectlink.ccbp.tech
+🌐 https://restuarant55.ccbp.tech
 
 ## 📸 Preview
 
