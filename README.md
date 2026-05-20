@@ -20,7 +20,7 @@ This project is designed to showcase food items, special offers, restaurant serv
 ## 📂 Project Structure
 
 restaurant-website/
-│
+|-
 ├── index.html
 ├── style.css
 └── images/
@@ -32,6 +32,7 @@ restaurant-website/
 ## 📸 Preview
 
 open - image.png
+
 
 ## 🎯 Purpose
 
