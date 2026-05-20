@@ -1,4 +1,3 @@
-![Uploading image.png…]()
 
 # 🍴 Restaurant Website
 
@@ -33,7 +32,7 @@ restaurant-website/
 
 ## 📸 Preview
 
-open - image.png
+<img width="1358" height="644" alt="image" src="https://github.com/user-attachments/assets/5e59b9c8-e242-490a-a4cd-49d0192f0abe" />
 
 
 ## 🎯 Purpose
